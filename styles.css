@@ -180,7 +180,7 @@ body{
     border-radius: 10px;
     padding-bottom: 10px;  
 }
-#portfolio .container .box .photo a img:hover{
+#portfolio .container .box .photo a:hover{
     transform: scale(1.2);
     border: 2px solid var(--blue-grotto);
 }
